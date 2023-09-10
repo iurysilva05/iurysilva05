@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iury silva
-- 👀 I’m interested in I got my first job as a front-end developer
-- 🌱 I’m currently learning HTML,CSS e Js
+-  I’m interested in I got my first job as a front-end developer
+-  I’m currently learning HTML,CSS e Js
+-  studying software engineering at Estácio (second period)
 
 
 <!---
