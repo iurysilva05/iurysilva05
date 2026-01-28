@@ -12,7 +12,7 @@
 ## Minha jornada:
 Sou desenvolvedor fullstack formado em Tec. em Análise e Desenvolvimento de Sistemas e Graduando em Eng. De Software. Adoro transformar ideias em soluções reais e inovadoras!
 
-## 💻 Tecnologias que domino::
+## 💻 Tecnologias que domino:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
