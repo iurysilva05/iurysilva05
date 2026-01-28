@@ -2,7 +2,9 @@
 <div align="center">
 
 <div class="container">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0xYXMzMHZjcGllNmduNnY5MXh0NnFocGwxY3JtMWdkdTVzbTBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsUNd14gwSkSLYTcR/giphy.gif" alt="Gif Trippy" />
+  <img src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif"
+
+ alt="Gif Trippy" />
 </div>
 
 </div>
