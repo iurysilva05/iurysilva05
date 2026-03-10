@@ -33,14 +33,6 @@ Sou desenvolvedor fullstack formado em Tec. em Análise e Desenvolvimento de Sis
 <img align="center" alt="Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
 </div>
 
-## 📈 Estatísticas do GitHub
-
-[![status do git](https://github-readme-stats.vercel.app/api?username=iurysilva05&show_icons=true&theme=radical)](https://github.com/iurysilva05)
- 
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iurysilva05&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
-</div>
-
 
 
 #
